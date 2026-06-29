@@ -32,7 +32,7 @@ function Navbar() {
         </li>
         <li>
           <a
-            href="https://drive.google.com/file/d/1iNTSdqoQWwNhTrqcI-KWlwQ1NFgYZcvL/view?usp=sharing"
+            href="https://drive.google.com/file/d/1j8VfsF3yWU-AzKIW-dyexemtEnAzhJPE/view?usp=sharing"
             target="_blank"
             className="bg-swash-5 px-2 py-1 rounded text-white no-underline hover:bg-swash-4 hover:text-white"
           >
